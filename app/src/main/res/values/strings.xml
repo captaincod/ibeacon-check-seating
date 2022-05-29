@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Проверка рассадки</string>
+    <string name="attention_title">Внимание! Отслеживание меток</string>
+    <string name="attention_msg">Пожалуйста, включите геолокацию и Bluetooth -
+    без них приложение не будет работать.</string>
+    <string name="attention_ok">Принимаю</string>
+    <string name="beacons_found">Метки найдены</string>
+    <string name="beacons_found_msg">Вы внутри зоны.</string>
+    <string name="beacons_not_found">Метки не обнаружены</string>
+    <string name="beacons_not_found_msg">Вероятно, Вы вышли из нужной зоны.</string>
+    <string name="ask_permissions">Приложению необходимы разрешения</string>
+    <string name="limited_func">Ограниченное функционирование</string>
+    <string name="loc_n_blue">Приложению необходимы разрешения определения местополжения и Bluetooth.</string>
+    <string name="loc">Приложению необходимы разрешения определения местополжения в любое время!</string>
+    <string name="blue">Приложению необходимо разрешение на сканер Bluetooth!</string>
+    <string name="go_settings">Проверьте, что дали разрешения на сканер Bluetooth
+        и определение местоположения, зайдя в Настройки -> Приложения -> Разрешения.</string>
+    <string name="your_seat">Ваше место:</string>
+    <string name="waiting_seat">Подождите…</string>
+    <string name="right_seat">Вы на нужном месте!</string>
+    <string name="wrong_seat">Вы ещё не пришли.\nРасстояние:\n%s метров</string>
+    <string name="found">Все найденные метки:</string>
+
+</resources>
