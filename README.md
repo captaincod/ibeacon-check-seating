@@ -5,7 +5,7 @@
 
 Скриншоты работы:  
 
-[screens.png]  
+![Скриншоты](https://github.com/captaincod/ibeacon-check-seating/blob/0cfed54be1749f6a5d05532cda2ab377ba912398/screens.png)  
   
 Что можно доделать?  
 * Как минимум, задать нормальный стиль для списка всех меток
